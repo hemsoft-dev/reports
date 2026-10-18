@@ -14,7 +14,7 @@ from src.github_identity import github_owners, repository_identity
 EDT = ZoneInfo("America/New_York")
 
 COMMAND_TIMEOUT_SECONDS = 120
-CACHE_SCHEMA_VERSION = 1
+CACHE_SCHEMA_VERSION = 2
 COLLECTION_SCOPE = "all-owned-author-date-v2"
 
 
@@ -366,10 +366,6 @@ def collect_commits(base_dir, start_dt, end_dt):
 
         folder_name = os.path.basename(d)
         repo_name = folder_name.replace(".worktrees", "").split("-identify-")[0]
-        if repo_name.startswith("."):
-            repo_name = repo_name.lstrip(".")
-            if not repo_name:
-                repo_name = "dot-github"
 
         try:
             cmd = [
