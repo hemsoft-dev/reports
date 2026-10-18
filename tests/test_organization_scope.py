@@ -2,13 +2,22 @@
 
 import copy
 import os
+from pathlib import Path
+import subprocess
+import tempfile
 import unittest
 from unittest.mock import patch
 
 from report_fixture import load_report_fixture
 from test_github_pagination import page, repository
 from src.analyzer import analyze_data
-from src.collector import CollectionError, _cache_inputs, get_date_range, list_github_repositories
+from src.collector import (
+    CollectionError,
+    _cache_inputs,
+    collect_commits,
+    get_date_range,
+    list_github_repositories,
+)
 from src.github_identity import github_owners, repository_identity
 from src.template import build_html_report
 
@@ -97,6 +106,45 @@ class OrganizationScopeTests(unittest.TestCase):
         self.assertNotIn('href="https://github.com/HemSoft/hs-buddy', rendered)
         self.assertTrue('href="https://github.com/HemSoft/retained"' in rendered)
         self.assertEqual(raw, original)
+
+    def test_dot_prefixed_checkout_links_to_its_collected_repository(self):
+        start, end = get_date_range(start_str="2026-09-01", end_str="2026-09-07")
+        with tempfile.TemporaryDirectory() as directory:
+            repo = Path(directory) / ".github"
+            subprocess.run(["git", "init", "--quiet", str(repo)], check=True, timeout=30)
+            subprocess.run(
+                [
+                    "git",
+                    "-C",
+                    str(repo),
+                    "-c",
+                    "user.name=Fixture",
+                    "-c",
+                    "user.email=fixture@example.invalid",
+                    "-c",
+                    "commit.gpgsign=false",
+                    "-c",
+                    "core.hooksPath=/dev/null",
+                    "commit",
+                    "--quiet",
+                    "--allow-empty",
+                    "-m",
+                    "profile",
+                ],
+                env=dict(os.environ, GIT_AUTHOR_DATE="2026-09-02T12:00:00-04:00"),
+                check=True,
+                timeout=30,
+            )
+            commits = collect_commits(directory, start, end)
+        self.assertEqual([c["repo"] for c in commits], [".github"])
+        raw = load_report_fixture()
+        raw["repo_meta"][".github"] = dict(
+            raw["repo_meta"]["hs-buddy"], nameWithOwner="hemsoft-dev/.github"
+        )
+        raw["commits"] = [dict(raw["commits"][0], repo=".github", hash="e" * 40)]
+        rendered = build_html_report(analyze_data(raw))
+        self.assertIn('href="https://github.com/hemsoft-dev/.github"', rendered)
+        self.assertIn(f'href="https://github.com/hemsoft-dev/.github/commit/{"e" * 40}"', rendered)
 
     def test_repository_identity_rejects_injection_and_mismatched_names(self):
         for canonical in (
