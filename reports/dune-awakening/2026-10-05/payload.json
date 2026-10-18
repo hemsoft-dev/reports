@@ -70,7 +70,7 @@
       "boss": "Dr. Jalanta",
       "url": "https://dune.gaming.tools/dungeons/dgn_pit",
       "hazard": "Multiple",
-      "methodUrl": "https://www.method.gg/dune-awakening/testing-stations/the-old-quarry"
+      "methodUrl": "https://www.method.gg/dune-awakening/testing-stations/testing-station-the-old-quarry"
     }
   ],
   "items": [
@@ -79,7 +79,7 @@
       "name": "Circuit Gauntlets",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/combat_heavy_unique_powerefficient_gloves_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_heavy_unique_powerefficient_gloves_06",
       "locations": [
         {
           "station": "152",
@@ -92,7 +92,7 @@
       "type": "Armor",
       "gameId": "combat_heavy_unique_powerefficient_gloves_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_powerefficient_gloves_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_powerefficient_gloves_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/circuit-gauntlets"
     },
@@ -101,7 +101,7 @@
       "name": "Power Harness",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/combat_heavy_unique_powerincrease_top_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_heavy_unique_powerincrease_top_06",
       "locations": [
         {
           "station": "152",
@@ -114,7 +114,7 @@
       "type": "Armor",
       "gameId": "combat_heavy_unique_powerincrease_top_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_powerincrease_top_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_powerincrease_top_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/power-harness"
     },
@@ -123,7 +123,7 @@
       "name": "Tabr Softstep Boots",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/combat_light_unique_wormthreat_boots_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_light_unique_wormthreat_boots_06",
       "locations": [
         {
           "station": "89",
@@ -136,7 +136,7 @@
       "type": "Armor",
       "gameId": "combat_light_unique_wormthreat_boots_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_wormthreat_boots_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_wormthreat_boots_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/tabr-softstep-boots"
     },
@@ -145,7 +145,7 @@
       "name": "Tactical Radiation Suit ",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/radiation_suit_t6_unique_armored_schematic",
+      "url": "https://dune.gaming.tools/items/radiation_suit_t6_unique_armored",
       "locations": [
         {
           "station": "89",
@@ -158,7 +158,7 @@
       "type": "Armor",
       "gameId": "radiation_suit_t6_unique_armored_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/radiation_suit_t6_unique_armored_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/radiation_suit_t6_unique_armored",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/tactical-radiation-suit"
     },
@@ -167,7 +167,7 @@
       "name": "The Forge Boots",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_boots_schematic",
+      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_boots",
       "locations": [
         {
           "station": "152",
@@ -180,7 +180,7 @@
       "type": "Armor",
       "gameId": "combat_hark_medunique02_boots_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_boots_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_boots",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/the-forge-boots"
     },
@@ -189,7 +189,7 @@
       "name": "The Forge Chestpiece",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_top_schematic",
+      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_top",
       "locations": [
         {
           "station": "152",
@@ -202,7 +202,7 @@
       "type": "Armor",
       "gameId": "combat_hark_medunique02_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/the-forge-chestpiece"
     },
@@ -211,7 +211,7 @@
       "name": "The Forge Gloves",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_gloves_schematic",
+      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_gloves",
       "locations": [
         {
           "station": "152",
@@ -224,7 +224,7 @@
       "type": "Armor",
       "gameId": "combat_hark_medunique02_gloves_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_gloves_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_gloves",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/the-forge-gloves"
     },
@@ -233,7 +233,7 @@
       "name": "The Forge Helmet",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_helmet_schematic",
+      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_helmet",
       "locations": [
         {
           "station": "152",
@@ -246,7 +246,7 @@
       "type": "Armor",
       "gameId": "combat_hark_medunique02_helmet_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_helmet_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_helmet",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/the-forge-helmet"
     },
@@ -255,7 +255,7 @@
       "name": "The Forge Pants",
       "category": "Armor",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_bottom_schematic",
+      "url": "https://dune.gaming.tools/items/combat_hark_medunique02_bottom",
       "locations": [
         {
           "station": "152",
@@ -268,7 +268,7 @@
       "type": "Armor",
       "gameId": "combat_hark_medunique02_bottom_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_bottom_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_hark_medunique02_bottom",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/the-forge-pants"
     },
@@ -277,7 +277,7 @@
       "name": "Blade Sharpener",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee1",
       "locations": [
         {
           "station": "24",
@@ -325,7 +325,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/blade-sharpener"
     },
@@ -334,7 +334,7 @@
       "name": "Blade-warding Weave",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor14_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor14",
       "locations": [
         {
           "station": "24",
@@ -382,7 +382,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor14_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor14_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor14",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/blade-warding-weave"
     },
@@ -391,7 +391,7 @@
       "name": "Dart-proof Latticing",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor12_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor12",
       "locations": [
         {
           "station": "24",
@@ -439,7 +439,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor12_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor12_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor12",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/dart-proof-latticing"
     },
@@ -448,7 +448,7 @@
       "name": "Disruptor M11 Sprayer",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_smg4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_smg4",
       "locations": [
         {
           "station": "136",
@@ -461,7 +461,7 @@
       "type": "Augment",
       "gameId": "t6_augment_smg4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/disruptor-m11-sprayer"
     },
@@ -470,7 +470,7 @@
       "name": "Drillshot FK7 Optimizer",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_shotgun3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_shotgun3",
       "locations": [
         {
           "station": "136",
@@ -483,7 +483,7 @@
       "type": "Augment",
       "gameId": "t6_augment_shotgun3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/drillshot-fk7-optimizer"
     },
@@ -492,7 +492,7 @@
       "name": "Drillshot FK7 Sprayer",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_shotgun4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_shotgun4",
       "locations": [
         {
           "station": "136",
@@ -505,7 +505,7 @@
       "type": "Augment",
       "gameId": "t6_augment_shotgun4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/drillshot-fk7-sprayer"
     },
@@ -514,7 +514,7 @@
       "name": "Flamethrower Amplifier",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_flamethrower1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_flamethrower1",
       "locations": [
         {
           "station": "24",
@@ -562,7 +562,7 @@
       "type": "Augment",
       "gameId": "t6_augment_flamethrower1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_flamethrower1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_flamethrower1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/flamethrower-amplifier"
     },
@@ -571,7 +571,7 @@
       "name": "GRDA 44 Amplifier",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_scattergun5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_scattergun5",
       "locations": [
         {
           "station": "89",
@@ -584,7 +584,7 @@
       "type": "Augment",
       "gameId": "t6_augment_scattergun5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/grda-44-amplifier"
     },
@@ -593,7 +593,7 @@
       "name": "Heavy Blade Adjuster",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee6_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee6",
       "locations": [
         {
           "station": "89",
@@ -613,7 +613,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee6_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee6_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee6",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/heavy-blade-adjuster"
     },
@@ -622,7 +622,7 @@
       "name": "Heavy Caliber Upgrade",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_damage1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_damage1",
       "locations": [
         {
           "station": "24",
@@ -670,7 +670,7 @@
       "type": "Augment",
       "gameId": "t6_augment_damage1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_damage1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_damage1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/heavy-caliber-upgrade"
     },
@@ -679,7 +679,7 @@
       "name": "Heavy Metal Blade Coating",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_melee1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_melee1",
       "locations": [
         {
           "station": "quarry",
@@ -692,7 +692,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_melee1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_melee1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_melee1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/heavy-metal-blade-coating"
     },
@@ -701,7 +701,7 @@
       "name": "JABAL Spitdart Amplifier",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle5",
       "locations": [
         {
           "station": "195",
@@ -714,7 +714,7 @@
       "type": "Augment",
       "gameId": "t6_augment_spitdartrifle5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/jabal-spitdart-amplifier"
     },
@@ -723,7 +723,7 @@
       "name": "JABAL Spitdart Expander",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle7_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle7",
       "locations": [
         {
           "station": "195",
@@ -736,7 +736,7 @@
       "type": "Augment",
       "gameId": "t6_augment_spitdartrifle7_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle7_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle7",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/jabal-spitdart-expander"
     },
@@ -745,7 +745,7 @@
       "name": "Lasgun Amplifier",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_lasgun4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_lasgun4",
       "locations": [
         {
           "station": "24",
@@ -793,7 +793,7 @@
       "type": "Augment",
       "gameId": "t6_augment_lasgun4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lasgun4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lasgun4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/lasgun-amplifier"
     },
@@ -802,7 +802,7 @@
       "name": "Maula Pistol Antipersonnel Rounds",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_maulapistol1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_maulapistol1",
       "locations": [
         {
           "station": "quarry",
@@ -815,7 +815,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_maulapistol1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_maulapistol1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_maulapistol1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/maula-pistol-antipersonnel-rounds"
     },
@@ -824,7 +824,7 @@
       "name": "Missile Launcher Fragmenter",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_rocketlauncher1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_rocketlauncher1",
       "locations": [
         {
           "station": "24",
@@ -872,7 +872,7 @@
       "type": "Augment",
       "gameId": "t6_augment_rocketlauncher1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rocketlauncher1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rocketlauncher1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/missile-launcher-fragmenter"
     },
@@ -881,7 +881,7 @@
       "name": "Missile Launcher Heavy Payload",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_rocketlauncher4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_rocketlauncher4",
       "locations": [
         {
           "station": "24",
@@ -929,7 +929,7 @@
       "type": "Augment",
       "gameId": "t6_augment_rocketlauncher4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rocketlauncher4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rocketlauncher4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/missile-launcher-heavy-payload"
     },
@@ -938,7 +938,7 @@
       "name": "Penetrative Reinforcement",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor4",
       "locations": [
         {
           "station": "89",
@@ -958,7 +958,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/penetrative-reinforcement"
     },
@@ -967,7 +967,7 @@
       "name": "Pyrocket Supercharger",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_fireballer1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_fireballer1",
       "locations": [
         {
           "station": "24",
@@ -1015,7 +1015,7 @@
       "type": "Augment",
       "gameId": "t6_augment_fireballer1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_fireballer1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_fireballer1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/pyrocket-supercharger"
     },
@@ -1024,7 +1024,7 @@
       "name": "Rafiq Snubnose Heavy Kit",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol1",
       "locations": [
         {
           "station": "152",
@@ -1037,7 +1037,7 @@
       "type": "Augment",
       "gameId": "t6_augment_heavypistol1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/rafiq-snubnose-heavy-kit"
     },
@@ -1046,7 +1046,7 @@
       "name": "Scattergun Rampage-Enhancement",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_scattergun1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_scattergun1",
       "locations": [
         {
           "station": "quarry",
@@ -1059,7 +1059,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_scattergun1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_scattergun1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_scattergun1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/scattergun-rampage-enhancement"
     },
@@ -1068,7 +1068,7 @@
       "name": "VULCAN GAU-92 Disruptive Coating",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_lmg5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_lmg5",
       "locations": [
         {
           "station": "195",
@@ -1081,7 +1081,7 @@
       "type": "Augment",
       "gameId": "t6_augment_lmg5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lmg5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lmg5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/vulcan-gau-92-disruptive-coating"
     },
@@ -1090,7 +1090,7 @@
       "name": "VULCAN GAU-92 Expander",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_lmg1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_lmg1",
       "locations": [
         {
           "station": "195",
@@ -1103,7 +1103,7 @@
       "type": "Augment",
       "gameId": "t6_augment_lmg1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lmg1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lmg1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/vulcan-gau-92-expander"
     },
@@ -1112,7 +1112,7 @@
       "name": "Woven Reinforcement",
       "category": "Augment",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor3",
       "locations": [
         {
           "station": "89",
@@ -1132,7 +1132,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/woven-reinforcement"
     },
@@ -1141,7 +1141,7 @@
       "name": "Black Market K-28 Lasgun",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/t6_choamlg2_schematic",
+      "url": "https://dune.gaming.tools/items/choamlg2",
       "locations": [
         {
           "station": "24",
@@ -1189,7 +1189,7 @@
       "type": "Weapon",
       "gameId": "t6_choamlg2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_choamlg2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/choamlg2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/black-market-k-28-lasgun"
     },
@@ -1198,7 +1198,7 @@
       "name": "Blind Fury",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_smugdmr1_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_smugdmr1",
       "locations": [
         {
           "station": "quarry",
@@ -1211,7 +1211,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_smugdmr1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_smugdmr1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_smugdmr1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/blind-fury"
     },
@@ -1220,7 +1220,7 @@
       "name": "Perforator",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/uniquescattergun5_schematic",
+      "url": "https://dune.gaming.tools/items/uniquescattergun5",
       "locations": [
         {
           "station": "136",
@@ -1233,7 +1233,7 @@
       "type": "Weapon",
       "gameId": "uniquescattergun5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquescattergun5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquescattergun5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/perforator"
     },
@@ -1242,7 +1242,7 @@
       "name": "Prescient Edge",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_rapier2_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_rapier2",
       "locations": [
         {
           "station": "quarry",
@@ -1255,7 +1255,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_rapier2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_rapier2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_rapier2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/prescient-edge"
     },
@@ -1264,7 +1264,7 @@
       "name": "Regis Disruptor Pistol",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/heavypistol_unique_bleed_06_schematic",
+      "url": "https://dune.gaming.tools/items/heavypistol_unique_bleed_06",
       "locations": [
         {
           "station": "195",
@@ -1277,7 +1277,7 @@
       "type": "Weapon",
       "gameId": "heavypistol_unique_bleed_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/heavypistol_unique_bleed_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/heavypistol_unique_bleed_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/regis-disruptor-pistol"
     },
@@ -1286,7 +1286,7 @@
       "name": "Regis Tripleshot Repeating Rifle",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/longrifle_unique_largemag_06_schematic",
+      "url": "https://dune.gaming.tools/items/longrifle_unique_largemag_06",
       "locations": [
         {
           "station": "152",
@@ -1299,7 +1299,7 @@
       "type": "Weapon",
       "gameId": "longrifle_unique_largemag_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/longrifle_unique_largemag_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/longrifle_unique_largemag_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/regis-tripleshot-repeating-rifle"
     },
@@ -1308,7 +1308,7 @@
       "name": "Replica Pulse-knife",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/kindjal_unique_stamina_06_schematic",
+      "url": "https://dune.gaming.tools/items/kindjal_unique_stamina_06",
       "locations": [
         {
           "station": "24",
@@ -1328,7 +1328,7 @@
       "type": "Weapon",
       "gameId": "kindjal_unique_stamina_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/kindjal_unique_stamina_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/kindjal_unique_stamina_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/replica-pulse-knife"
     },
@@ -1337,7 +1337,7 @@
       "name": "Replica Pulse-sword",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/uniquesword_05_schematic",
+      "url": "https://dune.gaming.tools/items/uniquesword_05",
       "locations": [
         {
           "station": "24",
@@ -1357,7 +1357,7 @@
       "type": "Weapon",
       "gameId": "uniquesword_05_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquesword_05_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquesword_05",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/replica-pulse-sword"
     },
@@ -1366,7 +1366,7 @@
       "name": "Seethe",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/heavypistol_unique_headshot_06_schematic",
+      "url": "https://dune.gaming.tools/items/heavypistol_unique_headshot_06",
       "locations": [
         {
           "station": "195",
@@ -1379,7 +1379,7 @@
       "type": "Weapon",
       "gameId": "heavypistol_unique_headshot_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/heavypistol_unique_headshot_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/heavypistol_unique_headshot_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/seethe"
     },
@@ -1388,7 +1388,7 @@
       "name": "Spitting Cobra",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_smg2_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_smg2",
       "locations": [
         {
           "station": "quarry",
@@ -1401,7 +1401,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_smg2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_smg2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_smg2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/spitting-cobra"
     },
@@ -1410,7 +1410,7 @@
       "name": "The Ancient Way",
       "category": "Weapon",
       "tier": "S",
-      "url": "https://dune.gaming.tools/items/rocketlauncher_unique_homing_06_schematic",
+      "url": "https://dune.gaming.tools/items/rocketlauncher_unique_homing_06",
       "locations": [
         {
           "station": "24",
@@ -1458,7 +1458,7 @@
       "type": "Weapon",
       "gameId": "rocketlauncher_unique_homing_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/rocketlauncher_unique_homing_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/rocketlauncher_unique_homing_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/the-ancient-way"
     },
@@ -1467,7 +1467,7 @@
       "name": "Bulwark Boots",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_boots_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_boots_06",
       "locations": [
         {
           "station": "136",
@@ -1480,7 +1480,7 @@
       "type": "Armor",
       "gameId": "combat_heavy_unique_reinforced_boots_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_boots_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_boots_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/bulwark-boots"
     },
@@ -1489,7 +1489,7 @@
       "name": "Bulwark Chest",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_top_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_top_06",
       "locations": [
         {
           "station": "136",
@@ -1502,7 +1502,7 @@
       "type": "Armor",
       "gameId": "combat_heavy_unique_reinforced_top_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_top_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_top_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/bulwark-chest"
     },
@@ -1511,7 +1511,7 @@
       "name": "Bulwark Gloves",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_gloves_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_gloves_06",
       "locations": [
         {
           "station": "136",
@@ -1524,7 +1524,7 @@
       "type": "Armor",
       "gameId": "combat_heavy_unique_reinforced_gloves_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_gloves_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_gloves_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/bulwark-gloves"
     },
@@ -1533,7 +1533,7 @@
       "name": "Bulwark Helmet",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_helmet_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_helmet_06",
       "locations": [
         {
           "station": "136",
@@ -1546,7 +1546,7 @@
       "type": "Armor",
       "gameId": "combat_heavy_unique_reinforced_helmet_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_helmet_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_helmet_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/bulwark-helmet"
     },
@@ -1555,7 +1555,7 @@
       "name": "Bulwark Leggings",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_bottom_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_bottom_06",
       "locations": [
         {
           "station": "136",
@@ -1568,7 +1568,7 @@
       "type": "Armor",
       "gameId": "combat_heavy_unique_reinforced_bottom_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_bottom_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_heavy_unique_reinforced_bottom_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/bulwark-leggings"
     },
@@ -1577,7 +1577,7 @@
       "name": "Combat Exoskeleton Chestpiece",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/exoskeleton_heavy06_unique_top_schematic",
+      "url": "https://dune.gaming.tools/items/exoskeleton_heavy06_unique_top",
       "locations": [
         {
           "station": "quarry",
@@ -1590,7 +1590,7 @@
       "type": "Armor",
       "gameId": "exoskeleton_heavy06_unique_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/exoskeleton_heavy06_unique_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/exoskeleton_heavy06_unique_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/combat-exoskeleton-chestpiece"
     },
@@ -1599,7 +1599,7 @@
       "name": "Ix-core Leggings",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_light_unique_stamina_bottom_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_light_unique_stamina_bottom_06",
       "locations": [
         {
           "station": "195",
@@ -1612,7 +1612,7 @@
       "type": "Armor",
       "gameId": "combat_light_unique_stamina_bottom_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_stamina_bottom_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_stamina_bottom_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/ix-core-leggings"
     },
@@ -1621,7 +1621,7 @@
       "name": "Pincushion Boots",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_boots_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_boots",
       "locations": [
         {
           "station": "89",
@@ -1634,7 +1634,7 @@
       "type": "Armor",
       "gameId": "combat_neut_smugglerdeserterunique06_boots_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_boots_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_boots",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/pincushion-boots"
     },
@@ -1643,7 +1643,7 @@
       "name": "Pincushion Chestpiece",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_top_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_top",
       "locations": [
         {
           "station": "89",
@@ -1656,7 +1656,7 @@
       "type": "Armor",
       "gameId": "combat_neut_smugglerdeserterunique06_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/pincushion-chestpiece"
     },
@@ -1665,7 +1665,7 @@
       "name": "Pincushion Gauntlets",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_gloves_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_gloves",
       "locations": [
         {
           "station": "89",
@@ -1678,7 +1678,7 @@
       "type": "Armor",
       "gameId": "combat_neut_smugglerdeserterunique06_gloves_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_gloves_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_gloves",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/pincushion-gauntlets"
     },
@@ -1687,7 +1687,7 @@
       "name": "Pincushion Helmet",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_helmet_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_helmet",
       "locations": [
         {
           "station": "89",
@@ -1700,7 +1700,7 @@
       "type": "Armor",
       "gameId": "combat_neut_smugglerdeserterunique06_helmet_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_helmet_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_helmet",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/pincushion-helmet"
     },
@@ -1709,7 +1709,7 @@
       "name": "Pincushion Pants",
       "category": "Armor",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_bottom_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_bottom",
       "locations": [
         {
           "station": "89",
@@ -1722,7 +1722,7 @@
       "type": "Armor",
       "gameId": "combat_neut_smugglerdeserterunique06_bottom_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_bottom_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_smugglerdeserterunique06_bottom",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/pincushion-pants"
     },
@@ -1731,7 +1731,7 @@
       "name": "Disruptive Coating",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_shielddamage1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_shielddamage1",
       "locations": [
         {
           "station": "24",
@@ -1779,7 +1779,7 @@
       "type": "Augment",
       "gameId": "t6_augment_shielddamage1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shielddamage1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shielddamage1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/disruptive-coating"
     },
@@ -1788,7 +1788,7 @@
       "name": "Disruptor M11 Amplifier",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_smg5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_smg5",
       "locations": [
         {
           "station": "136",
@@ -1801,7 +1801,7 @@
       "type": "Augment",
       "gameId": "t6_augment_smg5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/disruptor-m11-amplifier"
     },
@@ -1810,7 +1810,7 @@
       "name": "Edge Optimizer",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee9_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee9",
       "locations": [
         {
           "station": "89",
@@ -1830,7 +1830,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee9_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee9_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee9",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/edge-optimizer"
     },
@@ -1839,7 +1839,7 @@
       "name": "Flamethrower Superheater",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_flamethrower2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_flamethrower2",
       "locations": [
         {
           "station": "24",
@@ -1887,7 +1887,7 @@
       "type": "Augment",
       "gameId": "t6_augment_flamethrower2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_flamethrower2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_flamethrower2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/flamethrower-superheater"
     },
@@ -1896,7 +1896,7 @@
       "name": "GRDA 44 Expander",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_scattergun4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_scattergun4",
       "locations": [
         {
           "station": "89",
@@ -1909,7 +1909,7 @@
       "type": "Augment",
       "gameId": "t6_augment_scattergun4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/grda-44-expander"
     },
@@ -1918,7 +1918,7 @@
       "name": "GRDA 44 Optimizer",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_scattergun6_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_scattergun6",
       "locations": [
         {
           "station": "89",
@@ -1931,7 +1931,7 @@
       "type": "Augment",
       "gameId": "t6_augment_scattergun6_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun6_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun6",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/grda-44-optimizer"
     },
@@ -1940,7 +1940,7 @@
       "name": "Garment Reinforcement",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor6_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor6",
       "locations": [
         {
           "station": "24",
@@ -1988,7 +1988,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor6_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor6_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor6",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/garment-reinforcement"
     },
@@ -1997,7 +1997,7 @@
       "name": "Karpov 38 Heavy Kit",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_br3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_br3",
       "locations": [
         {
           "station": "24",
@@ -2010,7 +2010,7 @@
       "type": "Augment",
       "gameId": "t6_augment_br3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/karpov-38-heavy-kit"
     },
@@ -2019,7 +2019,7 @@
       "name": "Karpov 38 Precision Kit",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_br8_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_br8",
       "locations": [
         {
           "station": "24",
@@ -2032,7 +2032,7 @@
       "type": "Augment",
       "gameId": "t6_augment_br8_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br8_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br8",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/karpov-38-precision-kit"
     },
@@ -2041,7 +2041,7 @@
       "name": "Karpov 38 Pressurizer",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_br1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_br1",
       "locations": [
         {
           "station": "24",
@@ -2054,7 +2054,7 @@
       "type": "Augment",
       "gameId": "t6_augment_br1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/karpov-38-pressurizer"
     },
@@ -2063,7 +2063,7 @@
       "name": "Lasgun Harmonizer",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_lasgun3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_lasgun3",
       "locations": [
         {
           "station": "24",
@@ -2111,7 +2111,7 @@
       "type": "Augment",
       "gameId": "t6_augment_lasgun3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lasgun3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lasgun3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/lasgun-harmonizer"
     },
@@ -2120,7 +2120,7 @@
       "name": "Maula Pistol Disruptive Coating",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol2",
       "locations": [
         {
           "station": "24",
@@ -2133,7 +2133,7 @@
       "type": "Augment",
       "gameId": "t6_augment_maulapistol2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/maula-pistol-disruptive-coating"
     },
@@ -2142,7 +2142,7 @@
       "name": "Maula Pistol Expander",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol3",
       "locations": [
         {
           "station": "24",
@@ -2155,7 +2155,7 @@
       "type": "Augment",
       "gameId": "t6_augment_maulapistol3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/maula-pistol-expander"
     },
@@ -2164,7 +2164,7 @@
       "name": "Quick-release Trigger",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_rateoffire1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_rateoffire1",
       "locations": [
         {
           "station": "24",
@@ -2212,7 +2212,7 @@
       "type": "Augment",
       "gameId": "t6_augment_rateoffire1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rateoffire1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rateoffire1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/quick-release-trigger"
     },
@@ -2221,7 +2221,7 @@
       "name": "Rafiq Snubnose Expander",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol4",
       "locations": [
         {
           "station": "152",
@@ -2234,7 +2234,7 @@
       "type": "Augment",
       "gameId": "t6_augment_heavypistol4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/rafiq-snubnose-expander"
     },
@@ -2243,7 +2243,7 @@
       "name": "Tactical Enhancer",
       "category": "Augment",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/t6_augment_headshotdamage1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_headshotdamage1",
       "locations": [
         {
           "station": "24",
@@ -2291,7 +2291,7 @@
       "type": "Augment",
       "gameId": "t6_augment_headshotdamage1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_headshotdamage1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_headshotdamage1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/tactical-enhancer"
     },
@@ -2300,7 +2300,7 @@
       "name": "Ambition",
       "category": "Weapon",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/shotgun_unique_largemag_06_schematic",
+      "url": "https://dune.gaming.tools/items/shotgun_unique_largemag_06",
       "locations": [
         {
           "station": "89",
@@ -2313,7 +2313,7 @@
       "type": "Weapon",
       "gameId": "shotgun_unique_largemag_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/shotgun_unique_largemag_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/shotgun_unique_largemag_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/ambition"
     },
@@ -2322,7 +2322,7 @@
       "name": "Cauterizer",
       "category": "Weapon",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/uniquedirk_04_schematic",
+      "url": "https://dune.gaming.tools/items/uniquedirk_04",
       "locations": [
         {
           "station": "24",
@@ -2335,7 +2335,7 @@
       "type": "Weapon",
       "gameId": "uniquedirk_04_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquedirk_04_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquedirk_04",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/cauterizer"
     },
@@ -2344,7 +2344,7 @@
       "name": "Dunewatcher",
       "category": "Weapon",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/longrifle_unique_poison_06_schematic",
+      "url": "https://dune.gaming.tools/items/longrifle_unique_poison_06",
       "locations": [
         {
           "station": "195",
@@ -2357,7 +2357,7 @@
       "type": "Weapon",
       "gameId": "longrifle_unique_poison_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/longrifle_unique_poison_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/longrifle_unique_poison_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/dunewatcher"
     },
@@ -2366,7 +2366,7 @@
       "name": "Hell-Fury Pistol",
       "category": "Weapon",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_heavypistol2_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_heavypistol2",
       "locations": [
         {
           "station": "quarry",
@@ -2379,7 +2379,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_heavypistol2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_heavypistol2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_heavypistol2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/hell-fury-pistol"
     },
@@ -2388,7 +2388,7 @@
       "name": "Leech’s Maw",
       "category": "Weapon",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_dualblades1_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_dualblades1",
       "locations": [
         {
           "station": "quarry",
@@ -2401,7 +2401,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_dualblades1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_dualblades1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_dualblades1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/leechs-maw"
     },
@@ -2410,7 +2410,7 @@
       "name": "Shellburster",
       "category": "Weapon",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/uniquescattergun_fire_06_schematic",
+      "url": "https://dune.gaming.tools/items/uniquescattergun_fire_06",
       "locations": [
         {
           "station": "136",
@@ -2423,7 +2423,7 @@
       "type": "Weapon",
       "gameId": "uniquescattergun_fire_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquescattergun_fire_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquescattergun_fire_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/shellburster"
     },
@@ -2432,7 +2432,7 @@
       "name": "Spike Hilt Sword",
       "category": "Weapon",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/unique_sword_bleedyblocky_6_schematic",
+      "url": "https://dune.gaming.tools/items/unique_sword_bleedyblocky_6",
       "locations": [
         {
           "station": "136",
@@ -2445,7 +2445,7 @@
       "type": "Weapon",
       "gameId": "unique_sword_bleedyblocky_6_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/unique_sword_bleedyblocky_6_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/unique_sword_bleedyblocky_6",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/spike-hilt-sword"
     },
@@ -2454,7 +2454,7 @@
       "name": "Static Needle",
       "category": "Weapon",
       "tier": "A",
-      "url": "https://dune.gaming.tools/items/uniquerapier_power_06_schematic",
+      "url": "https://dune.gaming.tools/items/uniquerapier_power_06",
       "locations": [
         {
           "station": "136",
@@ -2467,7 +2467,7 @@
       "type": "Weapon",
       "gameId": "uniquerapier_power_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquerapier_power_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquerapier_power_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/static-needle"
     },
@@ -2476,7 +2476,7 @@
       "name": "Executor's Boots",
       "category": "Armor",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_boots_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_boots",
       "locations": [
         {
           "station": "24",
@@ -2489,7 +2489,7 @@
       "type": "Armor",
       "gameId": "combat_neut_atreidesdeserterunique05_boots_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_boots_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_boots",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/executors-boots"
     },
@@ -2498,7 +2498,7 @@
       "name": "Executor's Chestpiece",
       "category": "Armor",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_top_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_top",
       "locations": [
         {
           "station": "24",
@@ -2511,7 +2511,7 @@
       "type": "Armor",
       "gameId": "combat_neut_atreidesdeserterunique05_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/executors-chestpiece"
     },
@@ -2520,7 +2520,7 @@
       "name": "Executor's Gauntlets",
       "category": "Armor",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_gloves_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_gloves",
       "locations": [
         {
           "station": "24",
@@ -2533,7 +2533,7 @@
       "type": "Armor",
       "gameId": "combat_neut_atreidesdeserterunique05_gloves_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_gloves_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_gloves",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/executors-gauntlets"
     },
@@ -2542,7 +2542,7 @@
       "name": "Executor's Helmet",
       "category": "Armor",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_helmet_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_helmet",
       "locations": [
         {
           "station": "24",
@@ -2555,7 +2555,7 @@
       "type": "Armor",
       "gameId": "combat_neut_atreidesdeserterunique05_helmet_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_helmet_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_helmet",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/executors-helmet"
     },
@@ -2564,7 +2564,7 @@
       "name": "Executor's Pants",
       "category": "Armor",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_bottom_schematic",
+      "url": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_bottom",
       "locations": [
         {
           "station": "24",
@@ -2577,7 +2577,7 @@
       "type": "Armor",
       "gameId": "combat_neut_atreidesdeserterunique05_bottom_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_bottom_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_neut_atreidesdeserterunique05_bottom",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/executors-pants"
     },
@@ -2586,7 +2586,7 @@
       "name": "Idaho's Charge",
       "category": "Armor",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/combat_light_unique_reducesuspensor_top_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_light_unique_reducesuspensor_top_06",
       "locations": [
         {
           "station": "152",
@@ -2599,7 +2599,7 @@
       "type": "Armor",
       "gameId": "combat_light_unique_reducesuspensor_top_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_reducesuspensor_top_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_reducesuspensor_top_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/idahos-charge"
     },
@@ -2608,7 +2608,7 @@
       "name": "Aggressive Grip Adjuster",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee4",
       "locations": [
         {
           "station": "89",
@@ -2628,7 +2628,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/aggressive-grip-adjuster"
     },
@@ -2637,7 +2637,7 @@
       "name": "Blade Grip Adjuster",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee2",
       "locations": [
         {
           "station": "24",
@@ -2685,7 +2685,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/blade-grip-adjuster"
     },
@@ -2694,7 +2694,7 @@
       "name": "Capacity Expander",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_magazinecapacity1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_magazinecapacity1",
       "locations": [
         {
           "station": "24",
@@ -2742,7 +2742,7 @@
       "type": "Augment",
       "gameId": "t6_augment_magazinecapacity1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_magazinecapacity1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_magazinecapacity1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/capacity-expander"
     },
@@ -2751,7 +2751,7 @@
       "name": "Disruptor M11 Heavy Kit",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_smg7_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_smg7",
       "locations": [
         {
           "station": "136",
@@ -2764,7 +2764,7 @@
       "type": "Augment",
       "gameId": "t6_augment_smg7_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg7_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg7",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/disruptor-m11-heavy-kit"
     },
@@ -2773,7 +2773,7 @@
       "name": "Disruptor M11 Personnel-Buster",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_smg1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_smg1",
       "locations": [
         {
           "station": "quarry",
@@ -2786,7 +2786,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_smg1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_smg1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_smg1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/disruptor-m11-personnel-buster"
     },
@@ -2795,7 +2795,7 @@
       "name": "Disruptor M11 Precision Tuning",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_smg1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_smg1",
       "locations": [
         {
           "station": "136",
@@ -2808,7 +2808,7 @@
       "type": "Augment",
       "gameId": "t6_augment_smg1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/disruptor-m11-precision-tuning"
     },
@@ -2817,7 +2817,7 @@
       "name": "Disruptor M11 Quickloader",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_smg2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_smg2",
       "locations": [
         {
           "station": "136",
@@ -2830,7 +2830,7 @@
       "type": "Augment",
       "gameId": "t6_augment_smg2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/disruptor-m11-quickloader"
     },
@@ -2839,7 +2839,7 @@
       "name": "Disruptor M11 Shield Breaker",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_smg3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_smg3",
       "locations": [
         {
           "station": "136",
@@ -2852,7 +2852,7 @@
       "type": "Augment",
       "gameId": "t6_augment_smg3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_smg3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/disruptor-m11-shield-breaker"
     },
@@ -2861,7 +2861,7 @@
       "name": "Drillshot FK7 Amplifier",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_shotgun2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_shotgun2",
       "locations": [
         {
           "station": "136",
@@ -2874,7 +2874,7 @@
       "type": "Augment",
       "gameId": "t6_augment_shotgun2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/drillshot-fk7-amplifier"
     },
@@ -2883,7 +2883,7 @@
       "name": "Energy Dispersing Padding",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor5",
       "locations": [
         {
           "station": "89",
@@ -2910,7 +2910,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/energy-dispersing-padding"
     },
@@ -2919,7 +2919,7 @@
       "name": "Energy Resistant Weave",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor10_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor10",
       "locations": [
         {
           "station": "89",
@@ -2946,7 +2946,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor10_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor10_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor10",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/energy-resistant-weave"
     },
@@ -2955,7 +2955,7 @@
       "name": "Flame-resistant Fabrics",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor13_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor13",
       "locations": [
         {
           "station": "89",
@@ -2982,7 +2982,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor13_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor13_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor13",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/flame-resistant-fabrics"
     },
@@ -2991,7 +2991,7 @@
       "name": "Flamethrower Nozzle Extension",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_flamethrower3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_flamethrower3",
       "locations": [
         {
           "station": "24",
@@ -3039,7 +3039,7 @@
       "type": "Augment",
       "gameId": "t6_augment_flamethrower3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_flamethrower3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_flamethrower3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/flamethrower-nozzle-extension"
     },
@@ -3048,7 +3048,7 @@
       "name": "GRDA 44 Sprayer",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_scattergun7_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_scattergun7",
       "locations": [
         {
           "station": "89",
@@ -3061,7 +3061,7 @@
       "type": "Augment",
       "gameId": "t6_augment_scattergun7_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun7_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun7",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/grda-44-sprayer"
     },
@@ -3070,7 +3070,7 @@
       "name": "JABAL Spitdart Tactical Enhancer",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle2",
       "locations": [
         {
           "station": "195",
@@ -3083,7 +3083,7 @@
       "type": "Augment",
       "gameId": "t6_augment_spitdartrifle2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/jabal-spitdart-tactical-enhancer"
     },
@@ -3092,7 +3092,7 @@
       "name": "JABAL Spitdart Toxicity Amplifier",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle8_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle8",
       "locations": [
         {
           "station": "195",
@@ -3105,7 +3105,7 @@
       "type": "Augment",
       "gameId": "t6_augment_spitdartrifle8_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle8_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle8",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/jabal-spitdart-toxicity-amplifier"
     },
@@ -3114,7 +3114,7 @@
       "name": "Karpov 38 Dart Sprayer",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_br2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_br2",
       "locations": [
         {
           "station": "24",
@@ -3127,7 +3127,7 @@
       "type": "Augment",
       "gameId": "t6_augment_br2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/karpov-38-dart-sprayer"
     },
@@ -3136,7 +3136,7 @@
       "name": "Karpov 38 Sniper Barrel",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_br1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_br1",
       "locations": [
         {
           "station": "quarry",
@@ -3149,7 +3149,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_br1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_br1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_br1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/karpov-38-sniper-barrel"
     },
@@ -3158,7 +3158,7 @@
       "name": "Lasgun Concentrator",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_lasgun1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_lasgun1",
       "locations": [
         {
           "station": "quarry",
@@ -3171,7 +3171,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_lasgun1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_lasgun1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_lasgun1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/lasgun-concentrator"
     },
@@ -3180,7 +3180,7 @@
       "name": "Lasgun Extender",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_lasgun2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_lasgun2",
       "locations": [
         {
           "station": "24",
@@ -3228,7 +3228,7 @@
       "type": "Augment",
       "gameId": "t6_augment_lasgun2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lasgun2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lasgun2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/lasgun-extender"
     },
@@ -3237,7 +3237,7 @@
       "name": "Lasgun Focuser",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_lasgun1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_lasgun1",
       "locations": [
         {
           "station": "24",
@@ -3285,7 +3285,7 @@
       "type": "Augment",
       "gameId": "t6_augment_lasgun1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lasgun1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lasgun1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/lasgun-focuser"
     },
@@ -3294,7 +3294,7 @@
       "name": "Maula Pistol Sprayer",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol1",
       "locations": [
         {
           "station": "24",
@@ -3307,7 +3307,7 @@
       "type": "Augment",
       "gameId": "t6_augment_maulapistol1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/maula-pistol-sprayer"
     },
@@ -3316,7 +3316,7 @@
       "name": "Missile Launcher Obliterator",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_rocketlauncher1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_rocketlauncher1",
       "locations": [
         {
           "station": "quarry",
@@ -3329,7 +3329,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_rocketlauncher1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_rocketlauncher1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_rocketlauncher1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/missile-launcher-obliterator"
     },
@@ -3338,7 +3338,7 @@
       "name": "Protective Coating",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_deathdurabilityoff_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_deathdurabilityoff",
       "locations": [
         {
           "station": "24",
@@ -3386,7 +3386,7 @@
       "type": "Augment",
       "gameId": "t6_augment_deathdurabilityoff_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_deathdurabilityoff_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_deathdurabilityoff",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/protective-coating"
     },
@@ -3395,7 +3395,7 @@
       "name": "Pyrocket Quickloader",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_fireballer2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_fireballer2",
       "locations": [
         {
           "station": "24",
@@ -3443,7 +3443,7 @@
       "type": "Augment",
       "gameId": "t6_augment_fireballer2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_fireballer2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_fireballer2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/pyrocket-quickloader"
     },
@@ -3452,7 +3452,7 @@
       "name": "Radiation Absorbing Fabrics",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor16_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor16",
       "locations": [
         {
           "station": "89",
@@ -3472,7 +3472,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor16_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor16_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor16",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/radiation-absorbing-fabrics"
     },
@@ -3481,7 +3481,7 @@
       "name": "Rafiq Snubnose Disruptive Coating",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol2",
       "locations": [
         {
           "station": "152",
@@ -3494,7 +3494,7 @@
       "type": "Augment",
       "gameId": "t6_augment_heavypistol2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/rafiq-snubnose-disruptive-coating"
     },
@@ -3503,7 +3503,7 @@
       "name": "Rafiq Snubnose Marksman",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_heavypistol1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_heavypistol1",
       "locations": [
         {
           "station": "quarry",
@@ -3516,7 +3516,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_heavypistol1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_heavypistol1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_heavypistol1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/rafiq-snubnose-marksman"
     },
@@ -3525,7 +3525,7 @@
       "name": "VULCAN GAU-92 Sprayer",
       "category": "Augment",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/t6_augment_lmg6_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_lmg6",
       "locations": [
         {
           "station": "195",
@@ -3538,7 +3538,7 @@
       "type": "Augment",
       "gameId": "t6_augment_lmg6_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lmg6_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lmg6",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/vulcan-gau-92-sprayer"
     },
@@ -3547,7 +3547,7 @@
       "name": "A Dart for Every Man",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/smg_unique_largemag_06_schematic",
+      "url": "https://dune.gaming.tools/items/smg_unique_largemag_06",
       "locations": [
         {
           "station": "195",
@@ -3560,7 +3560,7 @@
       "type": "Weapon",
       "gameId": "smg_unique_largemag_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/smg_unique_largemag_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/smg_unique_largemag_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/a-dart-for-every-man"
     },
@@ -3569,7 +3569,7 @@
       "name": "Branding Blade",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_sword2_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_sword2",
       "locations": [
         {
           "station": "quarry",
@@ -3582,7 +3582,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_sword2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_sword2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_sword2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/branding-blade"
     },
@@ -3591,7 +3591,7 @@
       "name": "Burning Blades",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/uniquedualblades_6_schematic",
+      "url": "https://dune.gaming.tools/items/uniquedualblades_6",
       "locations": [
         {
           "station": "136",
@@ -3604,7 +3604,7 @@
       "type": "Weapon",
       "gameId": "uniquedualblades_6_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquedualblades_6_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquedualblades_6",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/burning-blades"
     },
@@ -3613,7 +3613,7 @@
       "name": "Eel’s Tooth",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_dirk2_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_dirk2",
       "locations": [
         {
           "station": "quarry",
@@ -3626,7 +3626,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_dirk2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_dirk2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_dirk2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/eels-tooth"
     },
@@ -3635,7 +3635,7 @@
       "name": "Experimental Lightning Gun",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/uniquear6_electric_schematic",
+      "url": "https://dune.gaming.tools/items/uniquear6_electric",
       "locations": [
         {
           "station": "152",
@@ -3648,7 +3648,7 @@
       "type": "Weapon",
       "gameId": "uniquear6_electric_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquear6_electric_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquear6_electric",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/experimental-lightning-gun"
     },
@@ -3657,7 +3657,7 @@
       "name": "Halleck's Pick",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/uniquerapier_03_schematic",
+      "url": "https://dune.gaming.tools/items/uniquerapier_03",
       "locations": [
         {
           "station": "136",
@@ -3677,7 +3677,7 @@
       "type": "Weapon",
       "gameId": "uniquerapier_03_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquerapier_03_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquerapier_03",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/hallecks-pick"
     },
@@ -3686,7 +3686,7 @@
       "name": "Plasma Cannon",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/lmg_unique_power_06_schematic",
+      "url": "https://dune.gaming.tools/items/lmg_unique_power_06",
       "locations": [
         {
           "station": "152",
@@ -3699,7 +3699,7 @@
       "type": "Weapon",
       "gameId": "lmg_unique_power_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/lmg_unique_power_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/lmg_unique_power_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/plasma-cannon"
     },
@@ -3708,7 +3708,7 @@
       "name": "Sardaukar Intimidator",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/uniquesmg3_schematic",
+      "url": "https://dune.gaming.tools/items/uniquesmg3",
       "locations": [
         {
           "station": "195",
@@ -3721,7 +3721,7 @@
       "type": "Weapon",
       "gameId": "uniquesmg3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquesmg3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquesmg3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/sardaukar-intimidator"
     },
@@ -3730,7 +3730,7 @@
       "name": "Serpent’s Fang",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_kindjal2_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_kindjal2",
       "locations": [
         {
           "station": "quarry",
@@ -3743,7 +3743,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_kindjal2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_kindjal2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_kindjal2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/serpents-fang"
     },
@@ -3752,7 +3752,7 @@
       "name": "The Angry Adder",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_harkar2_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_harkar2",
       "locations": [
         {
           "station": "quarry",
@@ -3765,7 +3765,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_harkar2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_harkar2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_harkar2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/the-angry-adder"
     },
@@ -3774,7 +3774,7 @@
       "name": "Way of the Misr",
       "category": "Weapon",
       "tier": "B",
-      "url": "https://dune.gaming.tools/items/uniquesda6_schematic",
+      "url": "https://dune.gaming.tools/items/uniquesda6",
       "locations": [
         {
           "station": "89",
@@ -3787,7 +3787,7 @@
       "type": "Weapon",
       "gameId": "uniquesda6_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquesda6_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquesda6",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/way-of-the-misr"
     },
@@ -3796,7 +3796,7 @@
       "name": "Crew Chief’s Stillsuit Garment",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_choam_unique_dashed06_top_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_choam_unique_dashed06_top",
       "locations": [
         {
           "station": "89",
@@ -3809,7 +3809,7 @@
       "type": "Armor",
       "gameId": "stillsuit_choam_unique_dashed06_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_choam_unique_dashed06_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_choam_unique_dashed06_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/crew-chiefs-stillsuit-garment"
     },
@@ -3818,7 +3818,7 @@
       "name": "Desert Garb",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/combat_light_unique_biomeheat_top_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_light_unique_biomeheat_top_06",
       "locations": [
         {
           "station": "24",
@@ -3831,7 +3831,7 @@
       "type": "Armor",
       "gameId": "combat_light_unique_biomeheat_top_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_biomeheat_top_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_biomeheat_top_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/desert-garb"
     },
@@ -3840,7 +3840,7 @@
       "name": "Hook-claw Gloves",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/combat_light_unique_climbing_gloves_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_light_unique_climbing_gloves_06",
       "locations": [
         {
           "station": "89",
@@ -3853,7 +3853,7 @@
       "type": "Armor",
       "gameId": "combat_light_unique_climbing_gloves_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_climbing_gloves_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_climbing_gloves_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/hook-claw-gloves"
     },
@@ -3862,7 +3862,7 @@
       "name": "Imperial Stillsuit Boots",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_boots_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_boots",
       "locations": [
         {
           "station": "195",
@@ -3875,7 +3875,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_armored_06_boots_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_boots_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_boots",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/imperial-stillsuit-boots"
     },
@@ -3884,7 +3884,7 @@
       "name": "Imperial Stillsuit Garment",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_top_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_top",
       "locations": [
         {
           "station": "195",
@@ -3897,7 +3897,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_armored_06_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/imperial-stillsuit-garment"
     },
@@ -3906,7 +3906,7 @@
       "name": "Imperial Stillsuit Gloves",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_gloves_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_gloves",
       "locations": [
         {
           "station": "195",
@@ -3919,7 +3919,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_armored_06_gloves_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_gloves_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_gloves",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/imperial-stillsuit-gloves"
     },
@@ -3928,7 +3928,7 @@
       "name": "Imperial Stillsuit Mask",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_mask_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_mask",
       "locations": [
         {
           "station": "195",
@@ -3941,7 +3941,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_armored_06_mask_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_mask_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_armored_06_mask",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/imperial-stillsuit-mask"
     },
@@ -3950,7 +3950,7 @@
       "name": "Pardot's Hood",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_heatmitigation_06_mask_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_heatmitigation_06_mask",
       "locations": [
         {
           "station": "195",
@@ -3963,7 +3963,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_heatmitigation_06_mask_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_heatmitigation_06_mask_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_heatmitigation_06_mask",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/pardots-hood"
     },
@@ -3972,7 +3972,7 @@
       "name": "Phantom Whisper Chestpiece",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/assassin_light06_unique_top_schematic",
+      "url": "https://dune.gaming.tools/items/assassin_light06_unique_top",
       "locations": [
         {
           "station": "quarry",
@@ -3985,7 +3985,7 @@
       "type": "Armor",
       "gameId": "assassin_light06_unique_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/assassin_light06_unique_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/assassin_light06_unique_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/phantom-whisper-chestpiece"
     },
@@ -3994,7 +3994,7 @@
       "name": "Phantom Whisper Helm",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/assassin_light06_unique_helmet_schematic",
+      "url": "https://dune.gaming.tools/items/assassin_light06_unique_helmet",
       "locations": [
         {
           "station": "quarry",
@@ -4007,7 +4007,7 @@
       "type": "Armor",
       "gameId": "assassin_light06_unique_helmet_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/assassin_light06_unique_helmet_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/assassin_light06_unique_helmet",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/phantom-whisper-helm"
     },
@@ -4016,7 +4016,7 @@
       "name": "Shaddam's Bladder",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_highcapacity_06_top_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_highcapacity_06_top",
       "locations": [
         {
           "station": "195",
@@ -4029,7 +4029,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_highcapacity_06_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_highcapacity_06_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_highcapacity_06_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/shaddams-bladder"
     },
@@ -4038,7 +4038,7 @@
       "name": "Villari's Stillsuit Boots",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_boots_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_boots",
       "locations": [
         {
           "station": "24",
@@ -4051,7 +4051,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_efficient_06_boots_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_boots_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_boots",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/villaris-stillsuit-boots"
     },
@@ -4060,7 +4060,7 @@
       "name": "Villari's Stillsuit Garment",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_top_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_top",
       "locations": [
         {
           "station": "24",
@@ -4073,7 +4073,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_efficient_06_top_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_top_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_top",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/villaris-stillsuit-garment"
     },
@@ -4082,7 +4082,7 @@
       "name": "Villari's Stillsuit Gloves",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_gloves_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_gloves",
       "locations": [
         {
           "station": "24",
@@ -4095,7 +4095,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_efficient_06_gloves_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_gloves_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_gloves",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/villaris-stillsuit-gloves"
     },
@@ -4104,7 +4104,7 @@
       "name": "Villari's Stillsuit Mask",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_mask_schematic",
+      "url": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_mask",
       "locations": [
         {
           "station": "24",
@@ -4117,7 +4117,7 @@
       "type": "Armor",
       "gameId": "stillsuit_unique_efficient_06_mask_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_mask_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/stillsuit_unique_efficient_06_mask",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/villaris-stillsuit-mask"
     },
@@ -4126,7 +4126,7 @@
       "name": "Wayfinder Helm",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/combat_light_unique_scanning_helmet_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_light_unique_scanning_helmet_06",
       "locations": [
         {
           "station": "24",
@@ -4139,7 +4139,7 @@
       "type": "Armor",
       "gameId": "combat_light_unique_scanning_helmet_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_scanning_helmet_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_scanning_helmet_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/wayfinder-helm"
     },
@@ -4148,7 +4148,7 @@
       "name": "Yueh's Reaper Gloves",
       "category": "Armor",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/combat_light_unique_dewreap_gloves_06_schematic",
+      "url": "https://dune.gaming.tools/items/combat_light_unique_dewreap_gloves_06",
       "locations": [
         {
           "station": "24",
@@ -4161,7 +4161,7 @@
       "type": "Armor",
       "gameId": "combat_light_unique_dewreap_gloves_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_dewreap_gloves_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/combat_light_unique_dewreap_gloves_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/garments/yuehs-reaper-gloves"
     },
@@ -4170,7 +4170,7 @@
       "name": "Barrel Extender",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_range1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_range1",
       "locations": [
         {
           "station": "24",
@@ -4218,7 +4218,7 @@
       "type": "Augment",
       "gameId": "t6_augment_range1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_range1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_range1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/barrel-extender"
     },
@@ -4227,7 +4227,7 @@
       "name": "Blade Blood Grooves",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_melee3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_melee3",
       "locations": [
         {
           "station": "quarry",
@@ -4240,7 +4240,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_melee3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_melee3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_melee3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/blade-blood-grooves"
     },
@@ -4249,7 +4249,7 @@
       "name": "Blade Flexi-Coating",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee3",
       "locations": [
         {
           "station": "24",
@@ -4297,7 +4297,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/blade-flexi-coating"
     },
@@ -4306,7 +4306,7 @@
       "name": "Blade Optimizer",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee8_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee8",
       "locations": [
         {
           "station": "89",
@@ -4326,7 +4326,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee8_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee8_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee8",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/blade-optimizer"
     },
@@ -4335,7 +4335,7 @@
       "name": "Concussive Dampening",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor1",
       "locations": [
         {
           "station": "89",
@@ -4355,7 +4355,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/concussive-dampening"
     },
@@ -4364,7 +4364,7 @@
       "name": "Concussive Redirection",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor2",
       "locations": [
         {
           "station": "89",
@@ -4384,7 +4384,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/concussive-redirection"
     },
@@ -4393,7 +4393,7 @@
       "name": "Curative-infused Padding",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor9_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor9",
       "locations": [
         {
           "station": "89",
@@ -4413,7 +4413,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor9_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor9_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor9",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/curative-infused-padding"
     },
@@ -4422,7 +4422,7 @@
       "name": "Defensive Grip Adjuster",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee7_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee7",
       "locations": [
         {
           "station": "89",
@@ -4442,7 +4442,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee7_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee7_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee7",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/defensive-grip-adjuster"
     },
@@ -4451,7 +4451,7 @@
       "name": "Desert-tested Weave",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor8_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor8",
       "locations": [
         {
           "station": "24",
@@ -4478,7 +4478,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor8_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor8_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor8",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/desert-tested-weave"
     },
@@ -4487,7 +4487,7 @@
       "name": "Detoxifying Fabrics",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor11_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor11",
       "locations": [
         {
           "station": "89",
@@ -4507,7 +4507,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor11_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor11_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor11",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/detoxifying-fabrics"
     },
@@ -4516,7 +4516,7 @@
       "name": "Drillshot FK7 Quickloader",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_shotgun5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_shotgun5",
       "locations": [
         {
           "station": "136",
@@ -4529,7 +4529,7 @@
       "type": "Augment",
       "gameId": "t6_augment_shotgun5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/drillshot-fk7-quickloader"
     },
@@ -4538,7 +4538,7 @@
       "name": "Drillshot FK7 Spray-and-Pray",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_shotgun1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_shotgun1",
       "locations": [
         {
           "station": "quarry",
@@ -4551,7 +4551,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_shotgun1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_shotgun1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_shotgun1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/drillshot-fk7-spray-and-pray"
     },
@@ -4560,7 +4560,7 @@
       "name": "Drillshot FK7 Tactical Adjuster",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_shotgun1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_shotgun1",
       "locations": [
         {
           "station": "136",
@@ -4573,7 +4573,7 @@
       "type": "Augment",
       "gameId": "t6_augment_shotgun1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_shotgun1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/drillshot-fk7-tactical-adjuster"
     },
@@ -4582,7 +4582,7 @@
       "name": "Flamethrower Decimator",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_flamethrower1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_flamethrower1",
       "locations": [
         {
           "station": "quarry",
@@ -4595,7 +4595,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_flamethrower1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_flamethrower1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_flamethrower1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/flamethrower-decimator"
     },
@@ -4604,7 +4604,7 @@
       "name": "Flamethrower Quickloader",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_flamethrower4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_flamethrower4",
       "locations": [
         {
           "station": "24",
@@ -4652,7 +4652,7 @@
       "type": "Augment",
       "gameId": "t6_augment_flamethrower4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_flamethrower4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_flamethrower4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/flamethrower-quickloader"
     },
@@ -4661,7 +4661,7 @@
       "name": "GRDA 44 Micro-Rigidity Coating",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_scattergun8_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_scattergun8",
       "locations": [
         {
           "station": "89",
@@ -4674,7 +4674,7 @@
       "type": "Augment",
       "gameId": "t6_augment_scattergun8_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun8_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun8",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/grda-44-micro-rigidity-coating"
     },
@@ -4683,7 +4683,7 @@
       "name": "GRDA 44 Tactical Amplifier",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_scattergun2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_scattergun2",
       "locations": [
         {
           "station": "89",
@@ -4696,7 +4696,7 @@
       "type": "Augment",
       "gameId": "t6_augment_scattergun2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_scattergun2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/grda-44-tactical-amplifier"
     },
@@ -4705,7 +4705,7 @@
       "name": "JABAL Spitdart Disruptive Coating",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle6_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle6",
       "locations": [
         {
           "station": "195",
@@ -4718,7 +4718,7 @@
       "type": "Augment",
       "gameId": "t6_augment_spitdartrifle6_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle6_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle6",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/jabal-spitdart-disruptive-coating"
     },
@@ -4727,7 +4727,7 @@
       "name": "JABAL Spitdart Focuser",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_spitdart1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_spitdart1",
       "locations": [
         {
           "station": "quarry",
@@ -4740,7 +4740,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_spitdart1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_spitdart1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_spitdart1",
       "aliases": [
         "JABAL Spitdart Ranger"
       ],
@@ -4752,7 +4752,7 @@
       "name": "JABAL Spitdart Range Adjuster",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_spitdartrifle3",
       "locations": [
         {
           "station": "195",
@@ -4765,7 +4765,7 @@
       "type": "Augment",
       "gameId": "t6_augment_spitdartrifle3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_spitdartrifle3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/jabal-spitdart-range-adjuster"
     },
@@ -4774,7 +4774,7 @@
       "name": "Karpov 38 Focuser",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_br4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_br4",
       "locations": [
         {
           "station": "24",
@@ -4787,7 +4787,7 @@
       "type": "Augment",
       "gameId": "t6_augment_br4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_br4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/karpov-38-focuser"
     },
@@ -4796,7 +4796,7 @@
       "name": "Lightweight Adjuster",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_melee5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_melee5",
       "locations": [
         {
           "station": "89",
@@ -4816,7 +4816,7 @@
       "type": "Augment",
       "gameId": "t6_augment_melee5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_melee5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/lightweight-adjuster"
     },
@@ -4825,7 +4825,7 @@
       "name": "Maula Pistol Barrel Extender",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol4",
       "locations": [
         {
           "station": "24",
@@ -4838,7 +4838,7 @@
       "type": "Augment",
       "gameId": "t6_augment_maulapistol4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/maula-pistol-barrel-extender"
     },
@@ -4847,7 +4847,7 @@
       "name": "Maula Pistol Tactical Enhancer",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_maulapistol5",
       "locations": [
         {
           "station": "24",
@@ -4860,7 +4860,7 @@
       "type": "Augment",
       "gameId": "t6_augment_maulapistol5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_maulapistol5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/maula-pistol-tactical-enhancer"
     },
@@ -4869,7 +4869,7 @@
       "name": "Missile Launcher Disruptive Coating",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_rocketlauncher2_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_rocketlauncher2",
       "locations": [
         {
           "station": "24",
@@ -4917,7 +4917,7 @@
       "type": "Augment",
       "gameId": "t6_augment_rocketlauncher2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rocketlauncher2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rocketlauncher2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/missile-launcher-disruptive-coating"
     },
@@ -4926,7 +4926,7 @@
       "name": "Missile Launcher Quickloader",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_rocketlauncher3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_rocketlauncher3",
       "locations": [
         {
           "station": "24",
@@ -4974,7 +4974,7 @@
       "type": "Augment",
       "gameId": "t6_augment_rocketlauncher3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rocketlauncher3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_rocketlauncher3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/missile-launcher-quickloader"
     },
@@ -4983,7 +4983,7 @@
       "name": "Precision Barrel Adjuster",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_acuracy1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_acuracy1",
       "locations": [
         {
           "station": "24",
@@ -5031,7 +5031,7 @@
       "type": "Augment",
       "gameId": "t6_augment_acuracy1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_acuracy1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_acuracy1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/precision-barrel-adjuster"
     },
@@ -5040,7 +5040,7 @@
       "name": "Pyrocket Decimator ",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_fireballer1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_fireballer1",
       "locations": [
         {
           "station": "quarry",
@@ -5053,7 +5053,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_fireballer1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_fireballer1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_fireballer1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/pyrocket-decimator"
     },
@@ -5062,7 +5062,7 @@
       "name": "Quickloader",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_reloadspeed1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_reloadspeed1",
       "locations": [
         {
           "station": "24",
@@ -5110,7 +5110,7 @@
       "type": "Augment",
       "gameId": "t6_augment_reloadspeed1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_reloadspeed1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_reloadspeed1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/quickloader"
     },
@@ -5119,7 +5119,7 @@
       "name": "Radiation Shielded Latticing",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_armor17_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_armor17",
       "locations": [
         {
           "station": "89",
@@ -5139,7 +5139,7 @@
       "type": "Augment",
       "gameId": "t6_augment_armor17_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor17_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_armor17",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/radiation-shielded-latticing"
     },
@@ -5148,7 +5148,7 @@
       "name": "Rafiq Snubnose Quickdraw Assembly",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol3_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol3",
       "locations": [
         {
           "station": "152",
@@ -5161,7 +5161,7 @@
       "type": "Augment",
       "gameId": "t6_augment_heavypistol3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/rafiq-snubnose-quickdraw-assembly"
     },
@@ -5170,7 +5170,7 @@
       "name": "Rafiq Snubnose Sprayer",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol5_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_heavypistol5",
       "locations": [
         {
           "station": "152",
@@ -5183,7 +5183,7 @@
       "type": "Augment",
       "gameId": "t6_augment_heavypistol5_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol5_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_heavypistol5",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/rafiq-snubnose-sprayer"
     },
@@ -5192,7 +5192,7 @@
       "name": "Recoil Adjuster",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_recoil1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_recoil1",
       "locations": [
         {
           "station": "24",
@@ -5240,7 +5240,7 @@
       "type": "Augment",
       "gameId": "t6_augment_recoil1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_recoil1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_recoil1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/recoil-adjuster"
     },
@@ -5249,7 +5249,7 @@
       "name": "VULCAN GAU-92 Accelerator",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_ch5_lmg1_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_ch5_lmg1",
       "locations": [
         {
           "station": "quarry",
@@ -5262,7 +5262,7 @@
       "type": "Augment",
       "gameId": "t6_augment_ch5_lmg1_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_lmg1_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_ch5_lmg1",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/vulcan-gau-92-accelerator"
     },
@@ -5271,7 +5271,7 @@
       "name": "VULCAN GAU-92 Focuser",
       "category": "Augment",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_augment_lmg4_schematic",
+      "url": "https://dune.gaming.tools/items/t6_augment_lmg4",
       "locations": [
         {
           "station": "195",
@@ -5284,7 +5284,7 @@
       "type": "Augment",
       "gameId": "t6_augment_lmg4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lmg4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/t6_augment_lmg4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/augmentations/vulcan-gau-92-focuser"
     },
@@ -5293,7 +5293,7 @@
       "name": "Bashar's Command",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/lmg_unique_rapidfire_06_schematic",
+      "url": "https://dune.gaming.tools/items/lmg_unique_rapidfire_06",
       "locations": [
         {
           "station": "152",
@@ -5306,7 +5306,7 @@
       "type": "Weapon",
       "gameId": "lmg_unique_rapidfire_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/lmg_unique_rapidfire_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/lmg_unique_rapidfire_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/bashars-command"
     },
@@ -5315,7 +5315,7 @@
       "name": "Feyd's Drinker",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/kindjal_unique_blood_06_schematic",
+      "url": "https://dune.gaming.tools/items/kindjal_unique_blood_06",
       "locations": [
         {
           "station": "24",
@@ -5328,7 +5328,7 @@
       "type": "Weapon",
       "gameId": "kindjal_unique_blood_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/kindjal_unique_blood_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/kindjal_unique_blood_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/feyds-drinker"
     },
@@ -5337,7 +5337,7 @@
       "name": "Glasser",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/t6_uniqueflamethrower_prototype_2_schematic",
+      "url": "https://dune.gaming.tools/items/flamethrower_prototype_2",
       "locations": [
         {
           "station": "136",
@@ -5350,7 +5350,7 @@
       "type": "Weapon",
       "gameId": "t6_uniqueflamethrower_prototype_2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/t6_uniqueflamethrower_prototype_2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/flamethrower_prototype_2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/glasser"
     },
@@ -5359,7 +5359,7 @@
       "name": "Indara's Lullaby",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/uniquear_burst_06_schematic",
+      "url": "https://dune.gaming.tools/items/uniquear_burst_06",
       "locations": [
         {
           "station": "152",
@@ -5372,7 +5372,7 @@
       "type": "Weapon",
       "gameId": "uniquear_burst_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquear_burst_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquear_burst_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/indaras-lullaby"
     },
@@ -5381,7 +5381,7 @@
       "name": "Penetrator",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/shotgun_unique_blood_06_schematic",
+      "url": "https://dune.gaming.tools/items/shotgun_unique_blood_06",
       "locations": [
         {
           "station": "89",
@@ -5394,7 +5394,7 @@
       "type": "Weapon",
       "gameId": "shotgun_unique_blood_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/shotgun_unique_blood_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/shotgun_unique_blood_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/penetrator"
     },
@@ -5403,7 +5403,7 @@
       "name": "Plastanium Pyrocket",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/fireballer_3_schematic",
+      "url": "https://dune.gaming.tools/items/fireballer_3",
       "locations": [
         {
           "station": "136",
@@ -5416,7 +5416,7 @@
       "type": "Weapon",
       "gameId": "fireballer_3_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/fireballer_3_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/fireballer_3",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/plastanium-pyrocket"
     },
@@ -5425,7 +5425,7 @@
       "name": "Regis Burst Drillshot",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/shotgun_unique_explosive_06_schematic",
+      "url": "https://dune.gaming.tools/items/shotgun_unique_explosive_06",
       "locations": [
         {
           "station": "89",
@@ -5438,7 +5438,7 @@
       "type": "Weapon",
       "gameId": "shotgun_unique_explosive_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/shotgun_unique_explosive_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/shotgun_unique_explosive_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/regis-burst-drillshot"
     },
@@ -5447,7 +5447,7 @@
       "name": "Salusan Vengeance",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/uniquear4_schematic",
+      "url": "https://dune.gaming.tools/items/uniquear4",
       "locations": [
         {
           "station": "152",
@@ -5460,7 +5460,7 @@
       "type": "Weapon",
       "gameId": "uniquear4_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquear4_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquear4",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/salusan-vengeance"
     },
@@ -5469,7 +5469,7 @@
       "name": "Shishakli's Bite",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/uniquesda_doubleshot_06_schematic",
+      "url": "https://dune.gaming.tools/items/uniquesda_doubleshot_06",
       "locations": [
         {
           "station": "89",
@@ -5482,7 +5482,7 @@
       "type": "Weapon",
       "gameId": "uniquesda_doubleshot_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniquesda_doubleshot_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniquesda_doubleshot_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/shishaklis-bite"
     },
@@ -5491,7 +5491,7 @@
       "name": "The Hateful Barker",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/b1c4_unique_lmg2_schematic",
+      "url": "https://dune.gaming.tools/items/b1c4_unique_lmg2",
       "locations": [
         {
           "station": "quarry",
@@ -5504,7 +5504,7 @@
       "type": "Weapon",
       "gameId": "b1c4_unique_lmg2_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_lmg2_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/b1c4_unique_lmg2",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/the-hateful-barker"
     },
@@ -5513,7 +5513,7 @@
       "name": "Vaporizer",
       "category": "Weapon",
       "tier": "C",
-      "url": "https://dune.gaming.tools/items/uniqueflamethrower_02_schematic",
+      "url": "https://dune.gaming.tools/items/uniqueflamethrower_02",
       "locations": [
         {
           "station": "136",
@@ -5526,7 +5526,7 @@
       "type": "Weapon",
       "gameId": "uniqueflamethrower_02_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/uniqueflamethrower_02_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/uniqueflamethrower_02",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/weapons/vaporizer"
     },
@@ -5535,7 +5535,7 @@
       "name": "Experimental Toxin-Absorption Pills",
       "category": "Consumable",
       "tier": null,
-      "url": "https://dune.gaming.tools/items/consumable_buff_poisonstackincrease_schematic",
+      "url": "https://dune.gaming.tools/items/consumable_buff_poisonstackincrease",
       "locations": [
         {
           "station": "195",
@@ -5548,7 +5548,7 @@
       "type": "Consumable",
       "gameId": "consumable_buff_poisonstackincrease_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/consumable_buff_poisonstackincrease_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/consumable_buff_poisonstackincrease",
       "aliases": [],
       "methodUrl": null
     },
@@ -5557,7 +5557,7 @@
       "name": "Accelerator Power Pack",
       "category": "Tool",
       "tier": null,
-      "url": "https://dune.gaming.tools/items/powerpack_unique_capacity_06_schematic",
+      "url": "https://dune.gaming.tools/items/powerpack_unique_capacity_06",
       "locations": [
         {
           "station": "89",
@@ -5570,7 +5570,7 @@
       "type": "Tool",
       "gameId": "powerpack_unique_capacity_06_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/powerpack_unique_capacity_06_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/powerpack_unique_capacity_06",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/tools/accelerator-power-pack"
     },
@@ -5579,7 +5579,7 @@
       "name": "Elohim-Class Suspensor Belt",
       "category": "Tool",
       "tier": null,
-      "url": "https://dune.gaming.tools/items/unique_miscequipment_fullsuspensorbelt_durability_schematic",
+      "url": "https://dune.gaming.tools/items/fullsuspensorbelt_unique_durability",
       "locations": [
         {
           "station": "24",
@@ -5592,7 +5592,7 @@
       "type": "Tool",
       "gameId": "unique_miscequipment_fullsuspensorbelt_durability_schematic",
       "isSchematic": true,
-      "gameUrl": "https://dune.gaming.tools/items/unique_miscequipment_fullsuspensorbelt_durability_schematic",
+      "gameUrl": "https://dune.gaming.tools/items/fullsuspensorbelt_unique_durability",
       "aliases": [],
       "methodUrl": "https://www.method.gg/dune-awakening/database/tools/elohim-class-suspensor-belt"
     }
