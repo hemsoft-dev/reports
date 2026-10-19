@@ -54,6 +54,6 @@ test('repository languages use metadata despite dominant lockfile churn', async 
   const unknown = page.locator('#table-repos tbody tr').filter({ has: page.getByRole('link', { name: 'unknown-language', exact: true }) });
   await expect(unknown.locator('td').nth(2)).toHaveText('Unknown');
   await expect(page.locator('#table-repos')).not.toContainText('Lockfile');
-  await page.getByRole('heading', { name: 'Repository deep dive', exact: true }).scrollIntoViewIfNeeded();
+  await page.locator('#pane-repos').scrollIntoViewIfNeeded();
   await page.screenshot({ path: path.join(root, 'test-results/repository-languages.png') });
 });
