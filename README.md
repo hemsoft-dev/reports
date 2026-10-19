@@ -19,6 +19,15 @@ mandatory gate in [SFL migration #138](https://github.com/hemsoft-dev/set-it-fre
 
 The tool generates standalone interactive HTML dashboards with Three.js 3D bar models and Chart.js analytics.
 
+## T3 Code project icon
+
+[T3 Code's project configuration](https://t3.codes/schema/t3.json) is stored in
+`t3.json`. Its `iconPath` points to the standalone `assets/icon.svg`, a gold report
+sheet and chart on charcoal. The SVG has a square viewBox and no external assets.
+Use [Automatic project icon detection](https://github.com/pingdotgg/t3code/blob/main/docs/user/project-settings.md#project-icons)
+in T3 Code to load the repository icon.
+A saved project image override takes precedence over the repository configuration.
+
 ## Output
 
 - Primary report location: `D:\hemsoft-productivity.html`
