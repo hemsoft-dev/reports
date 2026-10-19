@@ -147,13 +147,54 @@ class TestAnalyzer(unittest.TestCase):
                 self.assertEqual(analysis["repo_profiles"][0]["commits"], 1)
                 self.assertIn("Unknown", build_html_report(analysis))
 
-    def test_profile_language_uses_churn_then_metadata(self):
+    def test_profile_language_uses_repository_metadata(self):
         data = copy.deepcopy(self.sample_data)
         data["repo_meta"]["hs-buddy"]["primaryLanguage"] = {"name": "Python"}
-        self.assertEqual(analyze_data(data)["repo_profiles"][0]["primary_language"], "TypeScript")
+        self.assertEqual(analyze_data(data)["repo_profiles"][0]["primary_language"], "Python")
         for commit in data["commits"]:
             commit.update(files=[], additions=0, deletions=0, net_lines=0)
         self.assertEqual(analyze_data(data)["repo_profiles"][0]["primary_language"], "Python")
+
+    def test_lockfile_churn_does_not_replace_repository_language_or_activity(self):
+        data = copy.deepcopy(self.sample_data)
+        data["repo_meta"]["hs-buddy"]["primaryLanguage"] = {"name": "TypeScript"}
+        commit = data["commits"][0]
+        commit["files"].append(
+            {"path": "uv.lock", "language": "Lockfile", "adds": 10000, "dels": 5000}
+        )
+        commit["additions"] += 10000
+        commit["deletions"] += 5000
+        commit["net_lines"] += 5000
+        analysis = analyze_data(data)
+        profile = analysis["repo_profiles"][0]
+        self.assertEqual(profile["primary_language"], "TypeScript")
+        self.assertEqual(profile["commits"], 2)
+        self.assertEqual(profile["additions"], 10110)
+        self.assertEqual(profile["deletions"], 5025)
+        self.assertEqual(analysis["kpis"]["total_additions"], 10110)
+        self.assertEqual(analysis["kpis"]["total_deletions"], 5025)
+        lockfile = next(
+            row for row in analysis["language_breakdown"] if row["language"] == "Lockfile"
+        )
+        self.assertEqual(lockfile["additions"], 10000)
+        self.assertEqual(lockfile["deletions"], 5000)
+
+    def test_missing_repository_language_does_not_infer_from_interval_churn(self):
+        for metadata in (
+            {},
+            {"primaryLanguage": None},
+            {"primaryLanguage": {}},
+            {"primaryLanguage": {"name": ""}},
+        ):
+            with self.subTest(metadata=metadata):
+                data = copy.deepcopy(self.sample_data)
+                data["repo_meta"]["hs-buddy"] = metadata
+                data["commits"][0]["files"].append(
+                    {"path": "uv.lock", "language": "Lockfile", "adds": 10000, "dels": 0}
+                )
+                self.assertEqual(
+                    analyze_data(data)["repo_profiles"][0]["primary_language"], "Unknown"
+                )
 
     def test_median_cycle_time_for_even_odd_empty_and_single_samples(self):
         cases = [

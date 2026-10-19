@@ -243,13 +243,8 @@ def analyze_data(data):
         r_dels = sum(c["deletions"] for c in r_commits)
         r_net = r_adds - r_dels
 
-        # Languages in this repo
-        r_langs = Counter()
-        for c in r_commits:
-            for f in c.get("files", []):
-                r_langs[f["language"]] += f["adds"] + f["dels"]
-        metadata_language = (meta.get("primaryLanguage") or {}).get("name") or "Unknown"
-        primary_lang = r_langs.most_common(1)[0][0] if r_langs else metadata_language
+        # Repository language describes the project, not its recent file churn.
+        primary_lang = (meta.get("primaryLanguage") or {}).get("name") or "Unknown"
 
         r_active_days = len(set(c["date_str"] for c in r_commits))
         first_commit = min((c["author_date"] for c in r_commits), default=None)

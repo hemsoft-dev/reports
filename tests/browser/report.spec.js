@@ -43,3 +43,17 @@ test('organization repository and commit links retain canonical owner alongside 
   await expect(page.locator('#pane-commits a[href^="https://github.com/HemSoft/retained/commit/"]')).toHaveCount(1);
   await expect(page.locator('#pane-commits a[href^="https://github.com/HemSoft/hs-buddy/commit/"]')).toHaveCount(0);
 });
+
+test('repository languages use metadata despite dominant lockfile churn', async ({ page }) => {
+  await openReport(page, { reportPath: path.join(root, 'test-results/report-languages.html') });
+  const known = page.locator('#table-repos tbody tr').filter({ has: page.getByRole('link', { name: 'hs-buddy', exact: true }) });
+  await expect(known.locator('td').nth(2)).toHaveText('TypeScript');
+  await expect(known.locator('td').nth(3)).toHaveText('2');
+  await expect(known.locator('td').nth(5)).toHaveText('+10,110');
+  await expect(known.locator('td').nth(6)).toHaveText('-5,025');
+  const unknown = page.locator('#table-repos tbody tr').filter({ has: page.getByRole('link', { name: 'unknown-language', exact: true }) });
+  await expect(unknown.locator('td').nth(2)).toHaveText('Unknown');
+  await expect(page.locator('#table-repos')).not.toContainText('Lockfile');
+  await page.locator('#pane-repos').scrollIntoViewIfNeeded();
+  await page.screenshot({ path: path.join(root, 'test-results/repository-languages.png') });
+});

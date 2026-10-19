@@ -62,10 +62,11 @@ the selected table. Keyboard focus has a visible outline.
 - **Auditing filters**: Searchable and filterable tables for repositories, recent pull requests, and commit logs with links directly to GitHub.
 - **Arbitrary timeframes**: Audit any historical period using `--weeks <N>` or explicit `--start YYYY-MM-DD` and `--end YYYY-MM-DD` dates.
 
-Repository profile language follows the largest file-churn total in the selected
-interval. Without file-derived language, it uses GitHub's primary language.
-Missing, null, or empty language metadata displays `Unknown`, including repositories
-whose commits change no files.
+Repository profile language uses GitHub's primary language for the repository,
+independent of file churn in the selected interval. Missing, null, or empty
+language metadata displays `Unknown`; recent changes alone do not establish a
+repository's implementation language. Lockfile activity remains included in
+commit, line-churn, and file-type breakdown totals.
 
 PR cycle-time medians use merged PRs with a known creation-to-merge duration.
 Even-sized samples average the middle two values; odd-sized samples use the
