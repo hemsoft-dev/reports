@@ -33,6 +33,18 @@ def main():
         build_html_report(analyze_data(organization)), encoding="utf-8"
     )
 
+    languages = load_report_fixture()
+    languages["repo_meta"]["hs-buddy"]["primaryLanguage"] = {"name": "TypeScript"}
+    commit = languages["commits"][0]
+    commit["files"].append({"path": "uv.lock", "language": "Lockfile", "adds": 10000, "dels": 5000})
+    commit["additions"] += 10000
+    commit["deletions"] += 5000
+    commit["net_lines"] += 5000
+    languages["commits"].append(dict(commit, repo="unknown-language", hash="e" * 40))
+    (output / "report-languages.html").write_text(
+        build_html_report(analyze_data(languages)), encoding="utf-8"
+    )
+
     # Exercise the directory with repeated editions, long names and actual local targets.
     site = output / "landing"
     site.mkdir(exist_ok=True)
