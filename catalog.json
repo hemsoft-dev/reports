@@ -5,6 +5,43 @@
       "id": "productivity",
       "editions": [
         {
+          "id": "2026-10-29",
+          "title": "12 weeks to Oct 29, 2026",
+          "period": {
+            "start": "Aug 06, 2026",
+            "end": "Oct 29, 2026"
+          },
+          "highlights": [
+            {
+              "label": "Commits",
+              "value": "3,065"
+            },
+            {
+              "label": "PRs merged",
+              "value": "1,406"
+            },
+            {
+              "label": "Net lines",
+              "value": "+988,097"
+            },
+            {
+              "label": "Median PR cycle",
+              "value": "35 min"
+            },
+            {
+              "label": "Active repos",
+              "value": "63"
+            },
+            {
+              "label": "Longest streak",
+              "value": "79 days"
+            }
+          ],
+          "published_at": "2026-10-29T04:50:24+00:00",
+          "path": "reports/productivity/2026-10-29/",
+          "payload": "reports/productivity/2026-10-29/payload.json"
+        },
+        {
           "id": "2026-10-19",
           "title": "12 weeks to Oct 19, 2026",
           "period": {
