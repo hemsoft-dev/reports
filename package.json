@@ -28,7 +28,7 @@
   "author": "Franz Hemmer <franz_hemmer@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@axe-core/playwright": "4.13.0",
+    "@axe-core/playwright": "4.14.0",
     "@playwright/test": "1.64.1",
     "chart.js": "4.5.1",
     "esbuild": "0.28.2",
