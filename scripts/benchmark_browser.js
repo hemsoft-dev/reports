@@ -61,7 +61,7 @@ async function workload(page, scenario) {
     viewport.dispatchEvent(new MouseEvent('mousemove', { clientX: box.x + box.width / 2, clientY: box.y + box.height / 2 }));
     const rotation = document.querySelector('[aria-label="Auto-rotate weekly velocity"]');
     rotation.click(); rotation.click();
-    document.querySelector('[aria-label="Reset weekly velocity camera"]').click();
+    document.querySelector('[aria-label="Reset View for weekly velocity camera"]').click();
     document.querySelector('#tab-prs').click();
     const search = document.querySelector('#table-search');
     for (const value of ['no-benchmark-match', '']) {

@@ -20,7 +20,7 @@ test('bundled OrbitControls orbits by dragging and buttons stop and reset the sc
   await expect.poll(() => page.evaluate(start => velCamera.position.toArray()
     .reduce((sum, value, i) => sum + Math.abs(value - start[i]), 0), before)).toBeGreaterThan(1);
   // Reset while drag momentum is still decaying; it must not drift off the default view.
-  await page.getByRole('button', { name: 'Reset weekly velocity camera' }).click();
+  await page.getByRole('button', { name: 'Reset View for weekly velocity camera' }).click();
   await page.waitForTimeout(300);
   await expect.poll(() => page.evaluate(() => velCamera.position.toArray()
     .reduce((sum, value, i) => sum + Math.abs(value - [28, 26, 36][i]), 0))).toBeLessThan(0.1);

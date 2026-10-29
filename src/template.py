@@ -1079,7 +1079,7 @@ def build_html_report(analytics_data, home_href=None):
         </div>
         <div class="three-controls">
           <button class="three-btn active" id="btn-3d-vel-autorotate" aria-label="Auto-rotate weekly velocity" aria-pressed="true" onclick="toggleAutoRotate('vel')">Auto-Rotate</button>
-          <button class="three-btn" aria-label="Reset weekly velocity camera" onclick="resetCamera('vel')">Reset View</button>
+          <button class="three-btn" aria-label="Reset View for weekly velocity camera" onclick="resetCamera('vel')">Reset View</button>
         </div>
       </div>
       <div class="three-viewport" id="viewport-velocity">
@@ -1097,7 +1097,7 @@ def build_html_report(analytics_data, home_href=None):
         </div>
         <div class="three-controls">
           <button class="three-btn active" id="btn-3d-cad-autorotate" aria-label="Auto-rotate day and hour cadence" aria-pressed="true" onclick="toggleAutoRotate('cad')">Auto-Rotate</button>
-          <button class="three-btn" aria-label="Reset day and hour cadence camera" onclick="resetCamera('cad')">Reset View</button>
+          <button class="three-btn" aria-label="Reset View for day and hour cadence camera" onclick="resetCamera('cad')">Reset View</button>
         </div>
       </div>
       <div class="three-viewport" id="viewport-cadence">
