@@ -7,6 +7,10 @@ const { openReport, root } = require('./fixture');
 test('nine named visualizations expose complete equivalent data and accessible structure', async ({ page }) => {
   await openReport(page);
   const metrics = JSON.parse(await fs.readFile(path.join(root, 'test-results/metrics.json'), 'utf8'));
+  for (const reset of await page.getByRole('button', { name: /^Reset View/ }).all()) {
+    await expect(reset).toHaveAccessibleName(new RegExp(await reset.innerText()));
+  }
+  await expect(page.getByRole('button', { name: /^Reset View/ })).toHaveCount(2);
   const regions = page.locator('[data-visualization]');
   await expect(regions).toHaveCount(9);
   await expect(page.locator('canvas[role="img"][aria-label][aria-describedby]')).toHaveCount(9);
